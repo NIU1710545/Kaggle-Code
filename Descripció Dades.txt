@@ -1,0 +1,109 @@
+Esdeveniments Inicials (Firsts)
+Aquests esdeveniments indiquen quin equip va ser el primer a aconseguir l'objectiu. Els valors són:
+
+1 = team1
+2 = team2
+0 = cap (cap equip ho ha aconseguit)
+
+
+===================================================================================================
+//  First Baron, dragon, tower, blood, inhibitor and Rift Herald
+===================================================================================================
+
+
+firstBlood: Quin equip va fer la primera abatada (kill) de la partida.
+firstTower: Quin equip va destruir la primera torre.
+firstInhibitor: Quin equip va destruir el primer inhibidor.
+firstBaron: Quin equip va matar al Baron Nashor per primera vegada.
+firstDragon: Quin equip va matar al drac per primera vegada.
+firstRiftHerald: Quin equip va matar al Rift Herald per primera vegada.
+
+
+===================================================================================================
+//  Equip 1 (Team 1 - t1)
+//  Campions i Hechizos de Invocador:
+===================================================================================================
+
+t1_champ1id: ID del campió del jugador 1.
+t1_champ1_sum1: Primer hechizo d'invocador del jugador 1.
+t1_champ1_sum2: Segon hechizo d'invocador del jugador 1.
+
+t1_champ2id: ID del campió del jugador 2.
+t1_champ2_sum1: Primer hechizo d'invocador del jugador 2.
+t1_champ2_sum2: Segon hechizo d'invocador del jugador 2.
+
+t1_champ3id: ID del campió del jugador 3.
+t1_champ3_sum1: Primer hechizo d'invocador del jugador 3.
+t1_champ3_sum2: Segon hechizo d'invocador del jugador 3.
+
+t1_champ4id: ID del campió del jugador 4.
+t1_champ4_sum1: Primer hechizo d'invocador del jugador 4.
+t1_champ4_sum2: Segon hechizo d'invocador del jugador 4.
+
+t1_champ5id: ID del campió del jugador 5.
+t1_champ5_sum1: Primer hechizo d'invocador del jugador 5.
+t1_champ5_sum2: Segon hechizo d'invocador del jugador 5.
+
+
+· Recomptes d'Objectius (Kills):
+
+t1_towerKills: Nombre total de torres destruïdes per l'equip 1.
+t1_inhibitorKills: Nombre total d'inhibidors destruïts per l'equip 1.
+t1_baronKills: Nombre total de Barons Nashor assassinats per l'equip 1.
+t1_dragonKills: Nombre total de dracs assassinats per l'equip 1.
+t1_riftHeraldKills: Nombre total de Rift Heralds assassinats per l'equip 1.
+
+
+· Prohibicions (Bans):
+
+t1_ban1: ID del primer campió prohibit per l'equip 1.
+t1_ban2: ID del segon campió prohibit per l'equip 1.
+t1_ban3: ID del tercer campió prohibit per l'equip 1.
+t1_ban4: ID del quart campió prohibit per l'equip 1.
+t1_ban5: ID del cinquè campió prohibit per l'equip 1.
+
+
+
+===================================================================================================
+//  Equip 2 (Team 2 - t2)
+//  Campions i Hechizos de Invocador:
+===================================================================================================
+
+
+t2_champ1id: ID del campió del jugador 1.
+t2_champ1_sum1: Primer hechizo d'invocador del jugador 1.
+t2_champ1_sum2: Segon hechizo d'invocador del jugador 1.
+
+t2_champ2id: ID del campió del jugador 2.
+t2_champ2_sum1: Primer hechizo d'invocador del jugador 2.
+t2_champ2_sum2: Segon hechizo d'invocador del jugador 2.
+
+t2_champ3id: ID del campió del jugador 3.
+t2_champ3_sum1: Primer hechizo d'invocador del jugador 3.
+t2_champ3_sum2: Segon hechizo d'invocador del jugador 3.
+
+t2_champ4id: ID del campió del jugador 4.
+t2_champ4_sum1: Primer hechizo d'invocador del jugador 4.
+t2_champ4_sum2: Segon hechizo d'invocador del jugador 4.
+
+t2_champ5id: ID del campió del jugador 5.
+t2_champ5_sum1: Primer hechizo d'invocador del jugador 5.
+t2_champ5_sum2: Segon hechizo d'invocador del jugador 5.
+
+
+· Recomptes d'Objectius (Kills):
+
+t2_towerKills: Nombre total de torres destruïdes per l'equip 2.
+t2_inhibitorKills: Nombre total d'inhibidors destruïts per l'equip 2.
+t2_baronKills: Nombre total de Barons Nashor assassinats per l'equip 2.
+t2_dragonKills: Nombre total de dracs assassinats per l'equip 2.
+t2_riftHeraldKills: Nombre total de Rift Heralds assassinats per l'equip 2.
+
+
+· Prohibicions (Bans):
+
+t2_ban1: ID del primer campió prohibit per l'equip 2.
+t2_ban2: ID del segon campió prohibit per l'equip 2.
+t2_ban3: ID del tercer campió prohibit per l'equip 2.
+t2_ban4: ID del quart campió prohibit per l'equip 2.
+t2_ban5: ID del cinquè campió prohibit per l'equip 2.
