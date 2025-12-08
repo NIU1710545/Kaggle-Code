@@ -1,1 +1,1 @@
-from .funcions import *
+from ..funcions import *
