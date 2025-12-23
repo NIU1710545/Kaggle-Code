@@ -59,7 +59,6 @@ Del conjunt original de 60+ atributs, es redueix a aproximadament **11-15 featur
 S'han entrenat i comparat diversos algoritmes:
 - Decision Trees
 - Random Forest
-- XGBoost
 - Support Vector Machines (SVM)
 - Regressió Logística
 
@@ -75,7 +74,6 @@ S'han entrenat i comparat diversos algoritmes:
 - **Python 3.x**
 - **Pandas** & **NumPy**: manipulació de dades
 - **Scikit-learn**: models de ML i mètriques
-- **XGBoost**: gradient boosting
 - **Matplotlib** & **Seaborn**: visualització
 - **Jupyter Notebook**: entorn de desenvolupament
 
@@ -186,7 +184,6 @@ From the original set of 60+ attributes, we reduce to approximately **11-15 key 
 Several algorithms have been trained and compared:
 - Decision Trees
 - Random Forest
-- XGBoost
 - Support Vector Machines (SVM)
 - Logistic Regression
 
@@ -202,7 +199,6 @@ Several algorithms have been trained and compared:
 - **Python 3.x**
 - **Pandas** & **NumPy**: data manipulation
 - **Scikit-learn**: ML models and metrics
-- **XGBoost**: gradient boosting
 - **Matplotlib** & **Seaborn**: visualization
 - **Jupyter Notebook**: development environment
 
@@ -313,7 +309,6 @@ Del conjunto original de 60+ atributos, se reduce a aproximadamente **11-15 feat
 Se han entrenado y comparado varios algoritmos:
 - Decision Trees
 - Random Forest
-- XGBoost
 - Support Vector Machines (SVM)
 - Regresión Logística
 
@@ -329,7 +324,6 @@ Se han entrenado y comparado varios algoritmos:
 - **Python 3.x**
 - **Pandas** & **NumPy**: manipulación de datos
 - **Scikit-learn**: modelos de ML y métricas
-- **XGBoost**: gradient boosting
 - **Matplotlib** & **Seaborn**: visualización
 - **Jupyter Notebook**: entorno de desarrollo
 
